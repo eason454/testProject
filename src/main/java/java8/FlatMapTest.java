@@ -19,5 +19,7 @@ public class FlatMapTest {
 	    System.out.print("----------1------------------");
 	    System.out.print("-------------branch2-------------");
         System.out.println("-----------branch1--------------------");
+
+        System.out.println("second commit");
     }
 }
