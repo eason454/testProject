@@ -21,5 +21,7 @@ public class FlatMapTest {
         System.out.println("-----------branch1--------------------");
 
         System.out.println("master commit");
+
+        System.out.println("bug fix 1");
     }
 }
