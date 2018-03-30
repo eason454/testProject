@@ -36,5 +36,6 @@ public class FlatMapTest {
 
 
         System.out.println("bug fix 11");
+        System.out.println("bug fix 11 2");
     }
 }
